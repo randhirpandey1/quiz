@@ -1,4 +1,4 @@
 Flask==2.0.3
-PyMuPDF==1.19.0
+PyMuPDF==1.24.9
 openai==0.12.0
 fpdf==1.7.2
